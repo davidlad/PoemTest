@@ -1,10 +1,12 @@
 This is a poem about a rainbow.
 The rainbow has 7 colours:
+
 Red
 Orange
 Yellow
 Green
-
-
+Blue
+Indigo
+Violet
 
 The end.
